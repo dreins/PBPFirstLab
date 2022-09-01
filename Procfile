@@ -1,0 +1,1 @@
+web: gunicorn PBPFirstLab.wsgi --log-file -
